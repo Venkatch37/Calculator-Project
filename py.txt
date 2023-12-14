@@ -21,3 +21,4 @@ def calculator():
     elif op == '/': print(div(x, y))
     else          : print('Invalid operator input')
 calculator()
+pi=3.14
